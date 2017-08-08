@@ -1,3 +1,4 @@
-# My Awesome Book
+# 写给我学生的书
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+在大学计算机学院当老师，也当班主任带学生，本着计算机DRY，把想对学生说的话写下来，可以供闲暇时阅读。
+
